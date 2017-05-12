@@ -1,4 +1,5 @@
 ## Warsztaty TDD ##
 //autorzy
-*Marcin Wójcik
+*Marcin Wójcik!
+*Maria Nędzińska 
 
