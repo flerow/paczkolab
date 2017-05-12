@@ -1,9 +1,9 @@
 <?php
-
+include_once 'class/abstract/Database.php';
 $servername = "localhost";
-$username = "paczkolaby";
-$password = "paczkolaby";
-$baseName = "paczkolab";
+$username = "root";
+$password = "coderslab";
+$baseName = "warsztaty4";
 
 $conn = new mysqli($servername, $username, $password, $baseName);
 
